@@ -38,8 +38,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: cody.byre@gmail.com
-  facebook: facebook.com/cody.byre
+  email: "cody.byre@gmail.com"
+  facebook: "facebook.com/cody.byre"
   github: github.com/codybyre
 #  reddit: yourname
    linkedin: linkedin.com/in/cody-byre/
