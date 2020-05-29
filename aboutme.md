@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Using data for profit and winning
 ---
 
   I specialize in using statistics to create data-driven content to educate and entertain fantasy football consumers. 
