@@ -1,22 +1,26 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Cody Byre
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Data Scientist
 
 # Your name to show in the footer
-author: Some Person
+author: Cody Byre
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: " - Fantasy Sports Analyst
+  - Bachelor's Degree in Writing / Journalism
+  - Data Science Student
+  I specialize in using statistics to create data-driven content to educate and entertain fantasy football consumers. 
+  I'm learning DS to create predictive analytics models for Sports Betting and Daily Fantasy Sports.
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
@@ -38,13 +42,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "cody.byre@gmail.com"
+  facebook: facebook.com/cody.byre
+  github: github.com/codybyre
 #  reddit: yourname
-#  linkedin: daattali
+   linkedin: linkedin.com/in/cody-byre/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -62,13 +64,13 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
