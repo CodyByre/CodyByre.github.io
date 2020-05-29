@@ -39,8 +39,8 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
 #  email: "cody.byre@gmail.com"
-  facebook: "facebook.com/cody.byre"
-  github: github.com/codybyre
+# facebook:
+  github: codybyre
 #  reddit: yourname
    linkedin: linkedin.com/in/cody-byre/
 #  xing: yourname
