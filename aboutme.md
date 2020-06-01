@@ -1,11 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: # Using data for profit and winning
+subtitle: # Writer, Entreprenuer, Data Scientist
 ---
 
-  I specialize in using statistics to create data-driven content to educate and entertain fantasy football consumers. 
-  I'm learning DS to create predictive analytics models for Sports Betting and Daily Fantasy Sports.
+  I am currently a Type A Data Scientist who specializes in creating data-driven content to educate and entertain fantasy football consumers. I'm learning DS to improve on Type B skills so that I can create predictive analytics models for Sports Betting and Daily Fantasy Sports.
 
 ## My History
 
